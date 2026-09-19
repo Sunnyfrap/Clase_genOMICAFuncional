@@ -2,6 +2,7 @@
 
 
 Hello this is my repository
+### i find it important to note that on top of each code file theres a short note on what they are about, also for the pipeline, i ended using the WGCNA code thats called "WGCNAcode.R"
 
 # Coffea arabica × Xylella fastidiosa — Extended Transcriptomic & Co-expression Analysis
 
